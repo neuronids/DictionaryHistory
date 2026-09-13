@@ -140,3 +140,7 @@ dh purge --yes       delete the entire history
   `dh dump-ax` before relying on it.
 - Built and compile-tested on macOS 12.7.6 / Intel. Verify on the target machine with
   `./probe-target.sh` before trusting it.
+
+## License
+
+[MIT](LICENSE)
